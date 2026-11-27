@@ -4,7 +4,7 @@
 
 # Melodix-App
 
-Repositorio de Melodix con acceso a la documentación y la presentación del proyecto.
+Repositorio de Melodix con acceso a la documentación y la presentación del AnteProyecto.
 
 ## Documentación
 
